@@ -1,0 +1,25 @@
+[ui]
+
+verbose = True
+username = Yann Mainier <yann.mainier@gmail.com>
+
+[extensions]
+
+### extdiff - Use external diff application instead of builtin one
+### TODO : Search for nice MacOSX diff tool...
+# hgext.extdiff =
+
+### graphlog - ASCII graph log
+### hg help glog
+hgext.graphlog =
+
+### mq - Mercurial patch queues
+### hg help mq
+
+hgext.mq =
+
+hgext.color =
+
+
+[alias]
+show = log --color=always -pr
