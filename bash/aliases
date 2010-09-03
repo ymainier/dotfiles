@@ -6,3 +6,10 @@ alias la='ls -a'
 alias ll='ls -l'
 alias lla='ls -la'
 alias m='mate'
+
+# Git
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit -v'
+alias gps='git push'
+alias gpl='git pull'

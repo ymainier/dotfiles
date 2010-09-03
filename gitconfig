@@ -18,3 +18,4 @@
     untracked = cyan
 [alias]
     st = status
+    co = checkout
