@@ -10,6 +10,10 @@ alias m='mate'
 # Git
 alias gs='git status'
 alias ga='git add'
+alias gd='git diff'
 alias gc='git commit -v'
 alias gps='git push'
 alias gpl='git pull'
+alias glog='git log'
+
+alias r='rails'
